@@ -1,2 +1,2 @@
-# mycraft
-MyCraft | Webscript
+# webscript
+NacssWeb | Webscript
